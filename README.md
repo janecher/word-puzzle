@@ -4,7 +4,7 @@
 
 #### By: Janet Karpenske, Mook Dang, Evgeniya Chernaya
 
-##### This webpage allows the user to enter a sentence and it is returned with dashes in place of values.
+##### This webpage allows the user to enter a sentence and it is returned with dashes in place of values to be used as a word puzzle.
 
 ### Link to Site on Github Pages
 #### Not Applicable
