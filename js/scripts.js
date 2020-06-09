@@ -15,8 +15,6 @@ $(document).ready(function() {
     let result = sentenceArray.join("");
 
     $(".output").text(result);
-    $(".output").show();
-
-
+    //$(".output").show();
   });
 });
